@@ -20,7 +20,8 @@
   <img height="40" align="center" alt="Talha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Talha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="180em" alt="Talha-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
+  <img align="right" height="180em" alt="Talha-yoda" src="https://giphy.com/gifs/90s-internet-web-eKDb3ETCfz71CuvoFH">
+ 
 </div>
   
 </br>
